@@ -1,0 +1,1 @@
+Prv proekt vo Git
